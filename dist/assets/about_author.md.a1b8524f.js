@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,a as o}from"./app.d509a022.js";const h='{"title":"","description":"","frontmatter":{},"relativePath":"about/author.md","lastUpdated":1639559016000}',s={},r=o("p",null,"\u5C4C\u4E1D\u524D\u7AEF\u5728\u8DEF\u4E0A~~",-1),c=[r];function n(_,p,d,i,l,u){return e(),a("div",null,c)}var m=t(s,[["render",n]]);export{h as __pageData,m as default};
