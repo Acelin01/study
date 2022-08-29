@@ -1,0 +1,1 @@
+import{_ as e,L as n,K as t,a7 as r}from"./plugin-vue_export-helper.aa272829.js";const m='{"title":"\u5B89\u88C5","description":"","frontmatter":{},"relativePath":"about/author.md","lastUpdated":1661689247589}',o={},s=r("",22),a=[s];function i(d,c,p,l,u,g){return t(),n("div",null,a)}var b=e(o,[["render",i]]);export{m as __pageData,b as default};
