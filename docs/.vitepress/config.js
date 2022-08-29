@@ -20,12 +20,12 @@ module.exports = {
       {text: '区块链', link: '/about/blog', activeMatch: '^/about/'},
       {text: '前端技术', items: [
         { text: 'TS', link: '/ts/basics', activeMatch: '^/ts/' },
-        { text: 'React', link: '/react/ts', activeMatch: '^/react/' },
-        { text: 'Gulp', link: '/gulp/index', activeMatch: '^/gulp/' },
+        { text: 'vue', link: '/react/ts', activeMatch: '^/react/' },
+        { text: 'uniapp', link: '/gulp/index', activeMatch: '^/gulp/' },
       ]},
       {text: '后端技术', items: [
-        { text: '浏览器', link: '/browser/index', activeMatch: '^/browser/' },
-        { text: '源码阅读', link: '/source-code/index', activeMatch: '^/source-code/' },
+        { text: 'node', link: '/browser/index', activeMatch: '^/browser/' },
+        { text: 'python', link: '/source-code/index', activeMatch: '^/source-code/' },
         { text: '面试题', link: '/source-code/index', activeMatch: '^/source-code/' },
       ]}
     ],
